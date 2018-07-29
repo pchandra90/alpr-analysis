@@ -1,2 +1,2 @@
 # alpr-analysis
-Openalpr performance on country number plate for which it is not trained
+Openalpr analysis for Indian number plate recognition
